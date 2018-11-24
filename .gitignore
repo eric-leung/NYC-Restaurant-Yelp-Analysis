@@ -105,3 +105,6 @@ venv.bak/
 
 # Ignore AWS Config
 rootkey.json
+
+# Ignored CSV
+*.csv
